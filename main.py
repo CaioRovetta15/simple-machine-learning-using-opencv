@@ -5,7 +5,7 @@ import os
 from time import time
 # from windowcapture import WindowCapture
 from vision import Vision
-import pyscreenshot as ImageGrab
+#import pyscreenshot as ImageGrab
 # Change the working directory to the folder this script is in.
 # Doing this because I'll be putting the files from each video in their own folder on GitHub
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -15,17 +15,18 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #wincap = WindowCapture('/clover0/main_camera/image_raw')
 
 # load the trained model
-cascade_limestone = cv.CascadeClassifier('limestone_model_final.xml')
+cascade_limestone = cv.CascadeClassifier('cascade.xml')
 # load an empty Vision class
 vision_limestone = Vision(None)
+vidcap = cv.VideoCapture('output.avi')
 
 loop_time = time()
 while(True):
-
+    ret,frame = vidcap.read()
     # get an updated image of the game
-    screenshot = ImageGrab.grab()  # bbox specifies specific region (bbox= x,y,width,height *starts top-left)
-    img_np = np.array(screenshot)  # this is the array obtained from conversion
-    frame = cv.cvtColor(img_np, cv.COLOR_BGR2RGB)
+    # screenshot = ImageGrab.grab()  # bbox specifies specific region (bbox= x,y,width,height *starts top-left)
+    # img_np = np.array(screenshot)  # this is the array obtained from conversion
+    # frame = cv.cvtColor(img_np, cv.COLOR_BGR2RGB)
     # do object detection
     rectangles = cascade_limestone.detectMultiScale(frame)
 
@@ -43,7 +44,7 @@ while(True):
     # press 'f' to save screenshot as a positive image, press 'd' to
     # save as a negative image.
     # waits 1 ms every loop to process key presses
-    key = cv.waitKey(1)
+    key = cv.waitKey(30)
     if key == ord('q'):
         cv.destroyAllWindows()
         break

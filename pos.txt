@@ -1,105 +1,189 @@
-positive/1596724594.7233658.jpg 2 899 378 127 120 923 1 91 48
-positive/1596724628.6711628.jpg 2 890 497 144 133 929 44 94 68
-positive/1596724646.3438368.jpg 2 581 546 150 150 720 67 91 72
-positive/1596724654.9572363.jpg 3 920 129 100 86 965 477 126 130 1074 608 133 133
-positive/1596724663.8320026.jpg 5 868 12 88 69 890 288 112 101 984 390 105 97 1173 647 108 124 1173 647 108 124
-positive/1596724674.324035.jpg 3 808 153 98 89 889 242 91 80 1023 446 104 102
-positive/1596724688.3025408.jpg 3 997 42 94 72 1081 107 87 69 1250 268 67 80
-positive/1596724716.7686796.jpg 2 446 498 151 123 357 595 145 120
-positive/1596724725.0338614.jpg 2 451 428 143 116 370 506 124 132
-positive/1596724731.2288644.jpg 3 492 190 115 88 423 238 104 96 1043 506 121 89
-positive/1596724862.2278488.jpg 4 341 82 99 84 291 216 121 85 656 34 86 72 939 248 100 94
-positive/1596724877.1428533.jpg 4 550 303 106 98 514 484 136 116 897 225 113 95 1290 521 131 140
-positive/1596724932.9526978.jpg 3 256 240 117 64 439 621 136 118 1439 416 133 93
-positive/1596724981.3780077.jpg 2 553 167 97 84 650 168 101 83
-positive/1596725001.129405.jpg 1 234 283 142 79
-positive/1596725013.2133152.jpg 2 537 130 116 85 574 213 104 88
-positive/1596725024.112249.jpg 3 368 426 138 103 816 514 154 145 894 659 133 155
-positive/1596725056.3050916.jpg 2 585 40 98 63 970 95 46 56
-positive/1596725091.287897.jpg 1 822 99 66 79
-positive/1596725112.003226.jpg 2 616 69 93 77 1153 346 102 107
-positive/1596725119.7605214.jpg 2 359 364 136 98 957 179 111 94
-positive/1596725133.894812.jpg 1 599 87 107 82
-positive/1596725145.224427.jpg 1 105 346 139 90
-positive/1596725160.9995346.jpg 3 408 143 126 91 616 100 99 80 720 94 91 70
-positive/1596725207.3700407.jpg 3 368 157 107 80 970 136 97 85 511 151 87 87
-positive/1596725236.9265978.jpg 2 953 133 90 83 1141 75 90 65
-positive/1596725319.6801374.jpg 3 303 422 123 113 505 153 91 63 1238 46 107 61
-positive/1596725331.6399002.jpg 2 1153 181 104 91 889 652 158 150
-positive/1596725365.0860987.jpg 1 915 471 114 90
-positive/1596725448.8122423.jpg 1 422 314 103 98
-positive/1596725482.437604.jpg 2 608 517 147 124 649 652 146 141
-positive/1596725504.2595575.jpg 1 492 198 109 88
-positive/1596725531.0743005.jpg 1 1109 149 80 90
-positive/1596725547.959211.jpg 5 351 100 110 76 395 176 93 87 86 309 137 96 621 560 143 127 1091 1 96 55
-positive/1596725557.5062091.jpg 4 492 278 113 101 202 574 149 113 546 387 107 103 1325 137 88 76
-positive/1596725570.5192885.jpg 1 751 491 118 108
-positive/1596725594.7959447.jpg 2 1242 492 137 119 849 588 127 148
-positive/1596725612.3280354.jpg 2 957 481 125 130 1070 604 129 145
-positive/1596725623.4045992.jpg 4 861 277 110 105 952 366 112 116 1124 625 118 134 839 5 102 76
-positive/1596725636.845524.jpg 2 939 118 101 77 904 657 149 159
-positive/1596725656.2454305.jpg 3 303 423 128 115 1288 579 122 126 512 0 95 60
-positive/1596725673.0234246.jpg 2 350 371 108 107 1312 519 119 130
-positive/1596725683.22975.jpg 3 917 144 104 95 952 503 141 142 1073 625 137 164
-positive/1596725691.7093291.jpg 3 864 141 102 86 951 214 94 98 1104 417 98 106
-positive/1596725703.587616.jpg 2 1240 176 114 97 1347 258 112 98
-positive/1596725715.009877.jpg 2 366 504 149 112 273 581 136 139
-positive/1596725732.5384405.jpg 3 816 552 113 93 286 218 122 84 196 269 121 99
-positive/1596725787.8061755.jpg 2 1038 115 96 87 1128 189 96 86
-positive/1596725809.2862072.jpg 4 706 61 91 82 967 477 115 124 1118 427 121 82 1066 12 77 74
-positive/1596725850.87147.jpg 4 445 153 97 90 852 92 90 87 823 595 125 99 629 652 134 126
-positive/1596725863.4828084.jpg 3 168 463 130 118 399 176 102 64 1164 61 114 69
-positive/1596725874.1538086.jpg 3 27 256 121 67 142 655 142 111 1214 437 149 97
-positive/1596725886.3860302.jpg 4 375 45 90 74 720 22 86 68 1307 428 154 137 538 688 181 117
-positive/1596725967.164775.jpg 2 500 634 132 150 1470 499 129 152
-positive/1596725983.5232484.jpg 1 210 404 119 121
-positive/1596726015.8447444.jpg 1 997 512 147 113
-positive/1596726023.5497692.jpg 2 945 512 134 110 1112 293 129 89
-positive/1596726034.82377.jpg 3 642 500 116 95 64 239 124 88 156 182 127 86
-positive/1596726085.3942282.jpg 1 1095 312 81 91
-positive/1596726109.9420922.jpg 2 873 562 151 115 504 662 137 129
-positive/1596726116.478095.jpg 3 751 563 127 116 865 494 137 97 1077 468 146 114
-positive/1596726192.4596026.jpg 2 173 356 142 113 256 226 144 103
-positive/1596726416.5257359.jpg 1 1307 229 76 84
-positive/1596726430.6089704.jpg 2 361 528 133 121 454 436 140 132
-positive/1596726442.6422012.jpg 1 214 297 126 63
-positive/1596726453.5657032.jpg 2 1076 340 116 93 899 570 125 116
-positive/1596726474.629971.jpg 2 612 480 144 139 673 619 133 139
-positive/1596726526.9982874.jpg 2 791 60 95 81 235 35 103 74
-positive/1596726536.5520952.jpg 4 526 134 103 94 502 284 120 96 842 78 103 87 1181 312 119 111
-positive/1596726552.1565392.jpg 3 638 445 120 128 1023 355 118 119 618 677 142 139
-positive/1596726566.051003.jpg 2 529 576 127 150 673 73 98 84
-positive/1596726579.2008128.jpg 3 921 128 98 92 955 471 137 142 1068 598 140 158
-positive/1596726626.1602285.jpg 2 495 426 141 119 410 506 139 133
-positive/1596726654.1444535.jpg 3 522 287 126 107 445 347 118 116 1137 665 129 118
-positive/1596726662.3032484.jpg 3 627 116 107 79 564 162 103 84 1165 390 107 86
-positive/1596726774.8108573.jpg 4 343 332 116 97 1236 59 97 87 1246 157 99 94 1502 250 89 100
-positive/1596726788.6514382.jpg 3 889 60 99 74 879 153 78 91 1094 247 101 91
-positive/1596726803.447783.jpg 1 203 198 129 80
-positive/1596726860.5150664.jpg 1 1191 263 102 106
-positive/1596726901.542625.jpg 1 994 174 87 91
-positive/1596726926.4286637.jpg 1 993 10 100 90
-positive/1596726947.2468882.jpg 1 1000 106 94 94
-positive/1596726987.308508.jpg 1 1096 302 117 110
-positive/1596727004.7786236.jpg 5 108 145 128 83 133 231 109 89 925 25 90 74 1481 183 78 95 297 664 160 135
-positive/1596727013.9736161.jpg 5 512 148 110 96 560 244 106 95 264 388 142 118 884 665 132 155 1279 49 87 64
-positive/1596727037.3830843.jpg 1 816 596 137 150
-positive/1596727055.9510057.jpg 4 552 233 113 107 528 409 133 117 895 177 105 86 1274 444 118 131
-positive/1596727069.049649.jpg 2 945 107 89 84 884 621 169 176
-positive/1596727079.762559.jpg 3 904 137 119 96 943 489 146 153 1059 617 145 178
-positive/1596727099.340134.jpg 2 474 592 143 143 558 500 148 147
-positive/1596727137.8729897.jpg 3 881 29 92 73 835 68 89 78 1404 263 104 65
-positive/1596727178.5962224.jpg 2 1243 245 127 85 1111 447 122 106
-positive/1596727189.9316707.jpg 2 145 302 132 53 888 66 53 75
-positive/1596727203.982804.jpg 4 170 285 144 105 66 352 145 104 712 668 127 113 1441 308 133 76
-positive/1596727229.6601653.jpg 3 853 143 101 91 931 222 95 95 1086 427 98 108
-positive/1596727241.441173.jpg 2 966 54 94 76 941 525 149 146
-positive/1596727249.654685.jpg 2 778 8 92 76 680 441 136 131
-positive/1596727259.3076847.jpg 1 1161 365 136 120
-positive/1596727272.6673214.jpg 2 1141 153 101 72 1016 189 102 93
-positive/1596727293.8035266.jpg 4 666 93 105 90 1047 40 78 86 1088 483 132 105 920 538 130 123
-positive/1596727755.6122937.jpg 3 973 258 132 112 424 469 150 143 361 226 122 89
-positive/1596727802.904577.jpg 2 958 373 137 100 752 612 128 125
-positive/1596727822.1659546.jpg 4 666 66 93 93 329 123 115 90 290 261 122 106 963 287 101 118
-positive/1596727837.7473912.jpg 2 889 78 112 84 840 580 148 162
-positive/1596727848.3987978.jpg 3 946 27 93 80 982 302 119 122 1089 402 116 129
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1000.jpg 1 74 113 42 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1001.jpg 1 77 113 39 45
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1002.jpg 1 85 117 29 35
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1003.jpg 1 84 120 29 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame109.jpg 1 4 3 266 225
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1095.jpg 1 61 162 28 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1096.jpg 1 57 160 32 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1097.jpg 1 55 167 31 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1098.jpg 1 53 171 32 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1099.jpg 1 47 168 41 37
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame110.jpg 1 1 3 256 231
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1100.jpg 1 43 174 44 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1101.jpg 1 45 169 36 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1102.jpg 1 38 175 47 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1103.jpg 1 36 180 46 35
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1104.jpg 1 35 179 42 38
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1105.jpg 1 33 183 46 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1106.jpg 1 31 183 43 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1107.jpg 1 29 186 44 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1108.jpg 1 26 190 40 37
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1109.jpg 1 25 189 43 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame111.jpg 1 2 1 243 233
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1110.jpg 1 25 193 37 39
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1111.jpg 1 22 197 39 38
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1112.jpg 1 23 199 37 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1113.jpg 1 17 197 39 38
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1114.jpg 1 18 207 45 28
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1115.jpg 1 16 202 36 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1116.jpg 1 13 204 37 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1117.jpg 1 10 211 37 25
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1118.jpg 1 6 210 41 27
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame112.jpg 1 3 3 243 232
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame113.jpg 1 10 2 225 227
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame114.jpg 1 20 6 205 203
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame115.jpg 1 38 13 177 181
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1153.jpg 1 237 0 37 38
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1154.jpg 1 230 0 42 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1155.jpg 1 228 1 39 43
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1156.jpg 1 222 5 44 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1157.jpg 1 218 5 48 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1158.jpg 1 212 2 57 59
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1159.jpg 1 211 4 50 56
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame116.jpg 1 38 24 185 167
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1160.jpg 1 206 5 55 57
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1161.jpg 1 200 15 58 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1162.jpg 1 200 13 52 52
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1163.jpg 1 193 19 60 52
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1164.jpg 1 186 23 69 51
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1165.jpg 1 187 23 66 60
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1166.jpg 1 187 25 60 64
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1167.jpg 1 186 26 58 67
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1168.jpg 1 179 30 64 65
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1169.jpg 1 176 33 63 65
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame117.jpg 1 32 26 187 156
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1170.jpg 1 180 40 54 60
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1171.jpg 1 166 37 70 72
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1172.jpg 1 161 46 81 59
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1173.jpg 1 156 43 80 65
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1174.jpg 1 162 48 72 59
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1175.jpg 1 160 46 68 60
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1176.jpg 1 159 54 74 65
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1177.jpg 1 156 60 73 61
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1178.jpg 1 152 62 74 65
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1179.jpg 1 140 63 76 61
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame118.jpg 1 46 34 178 134
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1180.jpg 1 142 68 68 66
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1181.jpg 1 149 70 50 67
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1182.jpg 1 147 79 59 54
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1183.jpg 1 142 82 64 66
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1184.jpg 1 130 81 75 60
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1185.jpg 0
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1186.jpg 0
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1187.jpg 1 144 91 42 56
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1188.jpg 1 131 93 58 58
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1189.jpg 1 135 99 55 51
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame119.jpg 1 59 33 147 135
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1190.jpg 1 136 98 50 56
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1191.jpg 1 132 100 55 56
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1192.jpg 1 129 100 57 51
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1193.jpg 1 138 101 45 54
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1194.jpg 1 128 106 60 47
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1195.jpg 1 132 106 47 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1196.jpg 1 133 103 42 48
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1197.jpg 1 135 111 43 50
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1198.jpg 1 129 105 56 52
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1199.jpg 1 135 105 53 60
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame120.jpg 1 69 44 147 127
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1200.jpg 1 129 106 54 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1201.jpg 1 130 104 57 56
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1202.jpg 1 131 103 54 54
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1203.jpg 1 135 106 49 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1204.jpg 1 138 104 48 55
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1205.jpg 1 133 105 48 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1206.jpg 1 135 103 50 50
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1207.jpg 1 136 108 43 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1208.jpg 1 136 108 45 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1209.jpg 1 141 104 41 53
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame121.jpg 1 75 55 119 105
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1210.jpg 1 134 102 55 47
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1211.jpg 1 140 111 42 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1212.jpg 1 134 98 48 55
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1213.jpg 1 139 106 44 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1214.jpg 1 140 98 38 50
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1215.jpg 1 130 99 58 54
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1216.jpg 1 136 101 54 51
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1217.jpg 1 140 105 45 41
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1218.jpg 1 137 105 49 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1219.jpg 1 138 103 53 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame122.jpg 1 81 52 112 110
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1220.jpg 1 138 99 46 45
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1221.jpg 1 142 103 43 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1222.jpg 1 141 102 41 47
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1223.jpg 1 141 100 38 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1224.jpg 1 143 103 37 43
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1225.jpg 1 143 101 42 45
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1226.jpg 1 143 105 33 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1227.jpg 1 141 104 44 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1228.jpg 1 136 100 58 54
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1229.jpg 1 135 96 54 47
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame123.jpg 1 81 48 119 112
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1230.jpg 1 140 101 41 48
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1231.jpg 1 142 101 43 43
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1232.jpg 1 140 96 47 50
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1233.jpg 1 141 104 44 38
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1234.jpg 1 142 101 40 45
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1235.jpg 1 138 100 44 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1236.jpg 1 139 100 41 48
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1277.jpg 1 147 103 20 27
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1278.jpg 1 146 106 22 24
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1279.jpg 1 148 105 24 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame128.jpg 1 100 59 84 95
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1280.jpg 1 148 105 25 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1281.jpg 1 145 104 27 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1282.jpg 1 148 106 23 27
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1283.jpg 1 149 106 19 23
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1284.jpg 1 149 106 20 25
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame140.jpg 1 116 84 63 66
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1400.jpg 1 148 106 25 26
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1549.jpg 2 193 68 21 22 50 226 14 11
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame155.jpg 1 126 101 45 48
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1550.jpg 2 44 222 26 12 195 67 21 23
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1551.jpg 2 198 65 16 22 46 219 25 18
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1552.jpg 2 202 65 17 25 47 214 25 20
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1553.jpg 2 198 65 24 21 51 214 20 23
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1554.jpg 2 56 218 14 18 199 62 19 24
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1555.jpg 2 51 215 26 23 205 55 16 31
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1556.jpg 2 54 207 17 29 197 53 31 32
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1557.jpg 1 200 55 33 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1558.jpg 2 58 211 18 20 206 51 21 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1559.jpg 2 58 206 27 31 200 52 41 31
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame156.jpg 1 135 97 33 66
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1560.jpg 1 207 55 26 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1561.jpg 2 60 209 19 25 210 52 26 29
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1562.jpg 2 212 51 28 30 66 198 20 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1563.jpg 2 203 48 42 30 63 201 25 37
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1564.jpg 2 213 46 31 30 63 202 27 33
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1565.jpg 3 208 49 40 27 58 204 33 25 0 176 16 14
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1566.jpg 3 215 48 29 20 58 206 36 24 7 168 14 25
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1567.jpg 3 217 43 30 27 0 171 20 18 62 194 26 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1568.jpg 3 220 43 27 29 68 203 24 27 2 163 27 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1569.jpg 3 3 171 19 25 68 200 29 27 198 38 59 39
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame157.jpg 1 119 101 59 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1570.jpg 2 219 43 29 30 65 195 30 27
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1571.jpg 3 6 165 19 28 66 197 28 28 218 38 32 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1572.jpg 3 223 38 32 25 70 190 33 39 4 159 38 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1573.jpg 3 220 34 35 34 65 200 37 18 0 159 38 37
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1574.jpg 3 217 30 41 34 71 191 33 34 0 153 39 48
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1575.jpg 3 216 33 46 30 72 191 38 31 2 157 35 32
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1576.jpg 3 229 32 28 27 70 190 33 33 8 147 25 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1577.jpg 3 215 26 51 37 74 195 32 22 6 150 25 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1578.jpg 3 231 30 37 39 77 184 34 38 10 150 26 34
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1579.jpg 3 231 29 36 31 83 189 19 29 8 151 22 32
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame158.jpg 1 123 96 57 55
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1580.jpg 4 238 29 28 25 79 186 29 29 7 144 39 45 3 218 39 21
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1581.jpg 4 236 26 33 29 76 187 44 26 15 146 29 40 3 220 38 16
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1582.jpg 3 232 25 39 40 82 184 27 37 10 222 22 15
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1583.jpg 4 18 222 15 17 10 150 29 22 79 178 33 39 237 25 42 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1584.jpg 4 88 185 20 32 8 218 33 17 13 146 32 28 243 19 28 30
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1591.jpg 4 19 210 28 27 21 136 30 36 88 170 37 42 244 13 38 33
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1592.jpg 4 19 208 27 25 88 172 32 31 22 138 42 42 240 10 50 33
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1593.jpg 4 23 135 32 40 18 202 35 34 92 167 35 42 248 0 46 36
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1594.jpg 4 21 132 31 38 15 201 42 33 84 152 54 55 251 5 41 28
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1606.jpg 3 108 154 40 42 30 110 51 61 33 184 37 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1607.jpg 3 34 110 36 33 42 178 30 42 95 150 60 40
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1623.jpg 3 133 142 28 30 50 174 32 39 57 93 25 46
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1624.jpg 3 49 101 47 37 49 167 48 44 110 134 72 49
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1625.jpg 3 54 99 39 35 109 124 55 43 46 167 52 44
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1626.jpg 1 49 95 54 42
+C:/Users/caior/Desktop/Caio/opencv/simple-machine-learning-using-opencv/positive/frame1627.jpg 3 122 118 60 44 54 92 32 33 53 162 50 50
