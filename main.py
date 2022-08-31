@@ -22,7 +22,7 @@ vidcap = cv.VideoCapture('output.avi')
 
 loop_time = time()
 while(True):
-    ret,frame = vidcap.read()
+    ret, frame = vidcap.read()
     # get an updated image of the game
     # screenshot = ImageGrab.grab()  # bbox specifies specific region (bbox= x,y,width,height *starts top-left)
     # img_np = np.array(screenshot)  # this is the array obtained from conversion
@@ -32,8 +32,9 @@ while(True):
 
     # draw the detection results onto the original image
     detection_image = vision_limestone.draw_rectangles(frame, rectangles)
-
+    detection_image = cv.resize(detection_image, (960, 540))
     # display the images
+
     cv.imshow('Matches', detection_image)
 
     # debug the loop rate
@@ -44,7 +45,7 @@ while(True):
     # press 'f' to save screenshot as a positive image, press 'd' to
     # save as a negative image.
     # waits 1 ms every loop to process key presses
-    key = cv.waitKey(30)
+    key = cv.waitKey(10)
     if key == ord('q'):
         cv.destroyAllWindows()
         break
